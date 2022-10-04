@@ -1,0 +1,151 @@
+div{
+  padding-top: 20px;
+  text-align: center;
+
+}
+.Top_comtainer{
+    background-color: powderblue;
+    padding-top: 100px;
+}
+body{
+  margin : 0;
+  font-family: "Merriweather",serif;
+  font-size: 25px;
+}
+h1{
+  color: #66BFBF;
+  margin-top: 10px;
+  font-family: 'Merriweather', serif;
+  font-family: 'Passions Conflict', cursive;
+  font-family: 'Sacramento', cursive;
+  font-family: 'Silkscreen', cursive;
+  font-size: 562.5%;
+
+}
+.cloud_1{
+  position: absolute;
+  right: 100px;
+
+}
+.cloud_0{
+  position: absolute;
+  left: 100px;
+  top: 30px
+}
+.prog_field{
+  text-decoration: underline;
+}
+p{
+font-size: 20px;
+
+}
+.prog{
+  line-height: 10px;
+  font-family: 'Merriweather', serif;
+  font-family: 'Passions Conflict', cursive;
+  font-family: 'Sacramento', cursive;
+  font-family: 'Silkscreen', cursive;
+
+}
+
+.my_pict{
+  width: 150px;
+  height: 150px;
+  position: relative;
+  bottom: 70px;
+  border-radius: 90px;
+}
+h2{
+  color: #66BFBF;
+  margin: 0 ;
+  padding-right:10px;
+  position: relative;
+  bottom: 25px;
+  /* bottom:46px */
+}
+.brief_me{
+  margin:0;
+  position: relative;
+  left:43px;
+
+}
+hr{
+    margin-top: 70px;
+    border: dotted;
+    width: 20%;
+    color: grey;
+    border-radius: 50px;
+}
+.Skills_section{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+/* .resume{
+  line-height: 2;
+} */
+.pc_image{
+  width:25%;
+  border-radius: 70%;
+  float: left;
+  margin-right: 30px;
+}
+.design{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.skills{
+  text-align: center;
+}
+.second_Skills_section{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px  auto;
+}
+.chilies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.new_design{
+   margin-top: 0;
+   margin-bottom: 0;
+}
+.Get_in_touch{
+  text-align: left;
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+.header{
+  text-align: center;
+}
+.cv_pic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.footer_section{
+  background-color: #66BFBF;
+  text-align: center;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin-top: 30px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copy{
+  color: #EAF6F6;
+  margin-bottom: 0;
+  font-size: 0.75em;
+}
+.foote_section{
+  width: 40%;
+  margin: 40px auto 60px;
+}
